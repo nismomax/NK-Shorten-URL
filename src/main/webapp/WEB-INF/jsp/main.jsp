@@ -5,7 +5,7 @@
    <head>
       <title>Hello Spring MVC</title>
    </head>
-   
+   <script src="js/script.js"></script>  <!-- src/main/resource/static/js -->
    <body>
       <h2>${message}</h2>
    </body>
